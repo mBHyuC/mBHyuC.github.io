@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Direct Fitting of Gaussian Mixture Models"
+title:  "Dummy Post"
 date:   2019-05-29 22:21:59 +00:00
-image: /images/crv19.png
+image: /images/404.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+author: "Andreas Hubert"
+authors: "<strong>Andreas Hubert</strong>, Others"
 venue: "Computer and Robot Vision Conference"
-arxiv: https://arxiv.org/abs/1904.05537
-slides: /pdfs/crv19-slides.pdf
-code: https://github.com/leonidk/direct_gmm
-website: https://leonidk.github.io/direct_gmm/
+arxiv: https://google.de
+slides: https://google.de
+code: https://google.de
+website: https://google.de
 ---
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
+Dummy Post
