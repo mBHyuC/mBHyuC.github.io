@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Dummy Post 2"
+date:   2019-05-29 22:21:59 +00:00
+image: /images/404.jpg
+categories: private
+author: "Andreas Hubert"
+authors: "<strong>Andreas Hubert</strong>, Others"
+venue: "Computer and Robot Vision Conference"
+arxiv: https://google.de
+slides: https://google.de
+code: https://google.de
+website: #https://google.de
+---
+
+Dummy Post
